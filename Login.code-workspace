@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../dark-mode"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Login"
+	}
+}
